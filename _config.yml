@@ -4,7 +4,7 @@ description: Data science and analytics consulting by James Eells, PhD. Speciali
   in predictive modeling, program impact measurement, and data visualization.
 author: James Eells
 theme: jekyll-theme-minimal
-markdown: kramdown
+#markdown: kramdown
 plugins:
 - jekyll-feed
 github:
