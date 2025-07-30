@@ -1,5 +1,19 @@
-Title: Infera Group LLC
-#logo: /assets/img/infera_logo.png
-#description: Text below logo
-#show_downloads: true
+title: Infera Group LLC
+description: Data science and analytics consulting by James Eells, PhD. Specializing
+  in predictive modeling, program impact measurement, and data visualization.
+author: James Eells
 theme: jekyll-theme-minimal
+markdown: kramdown
+plugins:
+- jekyll-feed
+github:
+  is_project_page: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+include:
+- JEells_Resume_DSR.docx
+- CaseStudies.docx
+- LinkedInProfile_1.docx
