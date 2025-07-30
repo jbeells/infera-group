@@ -53,8 +53,8 @@ More case studies are available in the [CaseStudies.docx](./CaseStudies.docx) fi
 
 - **Languages**: Python, R, SQL, SAS
 - **Visualization**: Power BI, Tableau, Shiny
-- **Cloud & MLOps**: AWS (SageMaker, Glue, Athena), Docker
-- **Modeling**: Logistic Regression, LSTM, Causal Inference, Time Series
+- **Cloud & MLOps**: AWS (SageMaker, Glue, Athena), Azure
+- **Modeling**: Regression (All Flavors), LSTM, Causal Inference, Time Series
 - **Governance**: SR 11-7 Compliance, Model Risk Management
 
 ---
