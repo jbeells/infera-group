@@ -1,5 +1,5 @@
 Title: Infera Group LLC
-logo: /assets/img/headshot.png
+#logo: /assets/img/infera_logo.png
 #description: Text below logo
-show_downloads: true
+#show_downloads: true
 theme: jekyll-theme-minimal
