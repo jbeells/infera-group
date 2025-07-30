@@ -1,8 +1,3 @@
----
-title: Infera Group LLC
-layout: default
----
-
 # Infera Group LLC
 
 **Transforming Data into Insightful Action**
