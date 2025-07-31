@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Customer Experience Case Studies
-permalink: /case-studies/customer-experience/
+permalink: /case-studies-customer-experience/
 ---
 
 # 🤝 Customer Experience Case Studies  
