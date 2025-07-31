@@ -34,11 +34,8 @@ We believe small, agile teams can deliver big results—especially when analytic
 Explore selected examples of our work:
 
 - **OSU Entry-Level Placement Assessment**: Reduced remediation rates and improved equity in course placement for over 4,400 students annually.
-- **Real-Time Dispute Resolution Optimization**: Cut resolution time by 90% and reduced operational costs by 30%.
 - **NLP for Customer Service Prioritization**: Improved response times and customer satisfaction using early NLP techniques.
-- **Advisor Focus List & Sales Propensity Modeling**: Achieved 40%+ sales lift among targeted advisors.
 - **Cloud Migration & MLOps Modernization**: Migrated legacy SAS models to AWS, improving performance and governance.
-- **Key Driver Analysis for ROI Measurement**: Ranked 75+ programs by ROI, transforming investment decisions.
 
 ➡️ [View Full Case Study Archive](https://jbeells.github.io/infera-group/case-studies/)
 
