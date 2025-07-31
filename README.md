@@ -1,4 +1,4 @@
-# Infera Group LLC
+# About Us
 
 **Transforming Data into Insightful Action**
 
