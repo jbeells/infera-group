@@ -9,9 +9,9 @@ Strategic insights powered by data and delivered through rigor.
 
 Explore by focus area:
 
-- 📈 [Analytics](./analytics/)
-- ⚖️ [Compliance & Governance](./compliance/)
-- 🤝 [Customer Experience](./customer-experience/)
+- 📈 [Analytics](case-studies-analytics/)
+- ⚖️ [Compliance & Governance](case-studies-compliance/)
+- 🤝 [Customer Experience](case-studies-customer-experience/)
 
 ---
 
