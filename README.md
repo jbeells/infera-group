@@ -1,3 +1,10 @@
+<p align="center">
+  <a href="/resume.md">📄 Resume</a> •
+  <a href="/case-studies/">📊 Case Studies</a> •
+  <a href="/projects.md">🛠 Projects</a> •
+  <a href="/#-contact">📬 Contact</a>
+</p>
+
 # About Us
 
 **Transforming Data into Insightful Action**
@@ -57,17 +64,6 @@ Explore selected examples of our work:
 [LinkedIn](https://www.linkedin.com/in/james-eells-phd)  
 📧 jeells@me.com  
 📞 602.571.8274
-
----
-
-## 🧭 Navigation
-
-This repository includes:
-
-- `README.md` – You're here!
-- `CaseStudies.docx` – Detailed project examples
-- `JEells_Resume_DSR.docx` – Resume
-- `LinkedInProfile_1.docx` – LinkedIn summary
 
 ---
 
