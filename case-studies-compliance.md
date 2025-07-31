@@ -49,4 +49,4 @@ Achieved full compliance on schedule. Raised governance maturity and restored re
 ---
 
 🔙 [Back to Case Study Index](/case-studies/)
-🔙 [Return to Homepage](https://jbeells.github.io/infera-group/)
+🔙 [Return to Homepage](/)
