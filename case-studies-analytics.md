@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Analytics Case Studies
-permalink: /case-studies/analytics/
+permalink: /case-studies-analytics/
 ---
 
 # 📈 Analytics Case Studies  
