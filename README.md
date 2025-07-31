@@ -40,7 +40,7 @@ Explore selected examples of our work:
 - **Cloud Migration & MLOps Modernization**: Migrated legacy SAS models to AWS, improving performance and governance.
 - **Key Driver Analysis for ROI Measurement**: Ranked 75+ programs by ROI, transforming investment decisions.
 
-More case studies are available in the [CaseStudies.docx](./CaseStudies.docx) file.
+➡️ [View Full Case Study Archive](https://jbeells.github.io/infera-group/case-studies/)
 
 ---
 
