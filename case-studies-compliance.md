@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Compliance Case Studies
-permalink: /case-studies/compliance/
+permalink: /case-studies-compliance/
 ---
 
 # ⚖️ Compliance & Governance Case Studies  
