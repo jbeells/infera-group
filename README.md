@@ -1,8 +1,8 @@
 <p align="center">
-  <a href="/resume.md">📄 Resume</a> •
-  <a href="/case-studies/">📊 Case Studies</a> •
-  <a href="/projects.md">🛠 Projects</a> •
-  <a href="/#-contact">📬 Contact</a>
+  <a href="resume.md">📄 Resume</a> •
+  <a href="case-studies.md">📊 Case Studies</a> •
+  <a href="projects.md">🛠 Projects</a> •
+  <a href="#-contact">📬 Contact</a>
 </p>
 
 # About Us
