@@ -127,3 +127,4 @@ Confirmed model alignment with fiduciary goals. Strengthened go-to-market confid
 ---
 
 🔙 [Back to Case Study Index](./)
+🔙 [Return to Homepage](https://jbeells.github.io/infera-group/)
