@@ -62,3 +62,4 @@ Reduced ad hoc analysis demand. Empowered real-time exploration and strategic de
 ---
 
 🔙 [Back to Case Study Index](./)
+🔙 [Return to Homepage](https://jbeells.github.io/infera-group/)
