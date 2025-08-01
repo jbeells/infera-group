@@ -15,12 +15,13 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-
 nav:
   - Home: index.md
+  - Projects:
+      - Overview: projects/index.md
+      - Credit Risk Notebook: projects/credit_h20automl.ipynb
   - Case Studies: case-studies/index.md
   - Resume: resume/index.md
-
 plugins:
   - search
   - mkdocs-jupyter
