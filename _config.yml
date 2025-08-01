@@ -3,11 +3,8 @@ logo: /assets/img/Infera_Logo.png
 description: Data science and analytics consulting by James Eells, PhD. Specializing
   in predictive modeling, program impact measurement, and data visualization.
 author: James Eells
-#remote_theme: pages-themes/midnight@v0.2.0
-#plugins:
-#- jekyll-remote-theme # add this line to the plugins list if you already have one
+baseurl: "/infera-group"
 theme: jekyll-theme-minimal
-#markdown: kramdown
 plugins:
 - jekyll-feed
 github:
@@ -17,7 +14,3 @@ defaults:
     path: ''
   values:
     layout: default
-include:
-- JEells_Resume_DSR.docx
-- CaseStudies.docx
-- LinkedInProfile_1.docx

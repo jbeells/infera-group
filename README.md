@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="/resume/">📄 Resume</a> •
-  <a href="/case-studies/">📊 Case Studies</a> •
-  <a href="/projects/">🛠 Projects</a> •
+  <a href="/infera-group/resume/">📄 Resume</a> •
+  <a href="/infera-group/case-studies/">📊 Case Studies</a> •
+  <a href="infera-group/projects/">🛠 Projects</a> •
   <a href="#-contact">📬 Contact</a>
 </p>
 
@@ -44,7 +44,7 @@ Explore selected examples of our work:
 - **NLP for Customer Service Prioritization**: Improved response times and customer satisfaction using early NLP techniques.
 - **Cloud Migration & MLOps Modernization**: Migrated legacy SAS models to AWS, improving performance and governance.
 
-➡️ [View Full Case Study Archive](https://jbeells.github.io/infera-group/case-studies/)
+➡️ [View Full Case Study Archive](/infera-group/case-studies/)
 
 ---
 
