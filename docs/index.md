@@ -1,3 +1,5 @@
+<img src="assets/images/Infera_Logo.png" alt="Infera Group Logo" width="200"/>
+
 # About Us
 
 **Transforming Data into Insightful Action**

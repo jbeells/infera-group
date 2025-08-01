@@ -1,0 +1,26 @@
+site_name: Infra Group LLC
+theme:
+  name: material
+  logo: assets/images/Infera_Logo.png
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+nav:
+  - Home: index.md
+  - Case Studies: case-studies/index.md
+  - Resume: resume/index.md
+
+plugins:
+  - search
+  - mkdocs-jupyter
