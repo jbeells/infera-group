@@ -49,17 +49,17 @@
 
 ---
 
-## 📫 Contact
-
-<a href="https://www.linkedin.com/in/james-eells-phd" target="_blank" title="LinkedIn">
-  <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="32" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="mailto:jeells@me.com" title="Email">
-  <img src="assets/icons/email.svg" alt="Email" width="32" style="vertical-align:middle; margin-right:10px;"/>
-</a>
-<a href="tel:6025718274" title="Phone">
-  <img src="assets/icons/phone.svg" alt="Phone" width="32" style="vertical-align:middle;"/>
-</a>
+<div style="text-align:center;">
+  <a href="https://www.linkedin.com/in/james-eells-phd" target="_blank" title="LinkedIn">
+    <img src="assets/icons/linkedin.svg" alt="LinkedIn" width="32" style="vertical-align:middle; margin:0 10px;"/>
+  </a>
+  <a href="mailto:jeells@me.com" title="Email">
+    <img src="assets/icons/email.svg" alt="Email" width="32" style="vertical-align:middle; margin:0 10px;"/>
+  </a>
+  <a href="tel:6025718274" title="Phone">
+    <img src="assets/icons/phone.svg" alt="Phone" width="32" style="vertical-align:middle; margin:0 10px;"/>
+  </a>
+</div>
 
 ---
 
