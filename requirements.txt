@@ -1,0 +1,8 @@
+pandas
+numpy
+pyarrow
+mlflow
+azure-storage-blob
+scikit-learn
+# optional: for optimization wrapper
+pulp

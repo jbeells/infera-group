@@ -1,0 +1,14 @@
+artifact_uri: /Users/jeells/Documents/GitHub/infera-group/mlruns/281118817649064395/6fb67daf900d404393d84e6254d686d8/artifacts
+end_time: 1757374967770
+entry_point_name: ''
+experiment_id: '281118817649064395'
+lifecycle_stage: active
+run_id: 6fb67daf900d404393d84e6254d686d8
+run_name: hello_world_20250908T234247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757374967747
+status: 3
+tags: []
+user_id: jeells

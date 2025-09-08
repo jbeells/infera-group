@@ -1,0 +1,41 @@
+# SR11-7 Governance Template (Phase 0)
+
+## 1. Problem Framing
+- Objective: [Brief objective of the phase0 project]
+- Stakeholders: [list]
+- Constraints: [data, privacy, compute]
+
+## 2. Data Lineage & Access
+- Data sources: [names]
+- Data lineage diagram: [link or description]
+- Access controls: [who can read/write]
+
+## 3. Causal Identification Plan
+- Hypotheses: [...]
+- Identification strategy: [...]
+
+## 4. Predictive Model Development
+- Modeling approach: [e.g., baseline, validation plan]
+- Features: [...]
+
+## 5. Validation
+- Validation plan: [what tests, leakage checks, backtests]
+
+## 6. Strategy Optimization
+- Optimization problem: [e.g., knapsack-like allocation]
+
+## 7. Dashboards & Pipelines
+- Target dashboards: [Power BI/others]
+- Refresh cadence: [e.g., daily]
+
+## 8. MLOps / Cloud
+- Deployment plan: [staging/production]
+- Monitoring: [drift/PSI/KS]
+
+## 9. Governance & Risk
+- Compliance, privacy, ethics notes
+- Risk register
+
+## 10. Appendix
+- Data contracts
+- API specs
