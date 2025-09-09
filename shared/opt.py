@@ -9,7 +9,7 @@ Public API:
 """
 
 from typing import Dict, List
-ry:
+try:
     from pulp import LpProblem, LpMaximize, LpVariable, lpSum
     _PUlp_AVAILABLE = True
 except Exception:

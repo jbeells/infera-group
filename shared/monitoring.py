@@ -1,6 +1,5 @@
 ### 1.3 monitoring.py
 
-```python
 # /shared/monitoring.py
 """
 Lightweight drift and calibration monitoring.
